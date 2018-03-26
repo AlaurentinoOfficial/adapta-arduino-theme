@@ -7,6 +7,6 @@
 
 * Windows: go to ```C:\Program Files (x86)\Arduino\lib``` and replace ```theme```
 * Mac: go to```~/Applications/Arduino.app/Contents/Java/lib``` and replace ```theme```
-* Linux: go to ```/opt/arduino/lib``` and replace ```theme```
+* Linux: go to ```/usr/share/arduino/lib``` and replace ```theme```
 
 [Inspired by Adapta GTK Theme](https://github.com/adapta-project/adapta-gtk-theme)
