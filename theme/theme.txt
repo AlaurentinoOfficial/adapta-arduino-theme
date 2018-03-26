@@ -19,7 +19,7 @@ status.font = SansSerif,plain,12
 # (tab images are stored in the lib/theme folder)
 header.bgcolor = #222D32
 header.text.selected.color = #ffffff
-header.text.unselected.color = #3C3C3C
+header.text.unselected.color = #aaaaaa
 header.text.font = SansSerif,bold,12
 
 # GUI - CONSOLE
