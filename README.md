@@ -1,7 +1,7 @@
 # Adapta Arduino Theme
 
 
-![capture](https://user-images.githubusercontent.com/10734352/37881990-71c68990-3075-11e8-9266-073d56e7f03a.png)
+![capture](https://user-images.githubusercontent.com/10734352/37882523-60d6134e-307a-11e8-9426-a829a8e4df67.png)
 
 # INSTALLATION
 
