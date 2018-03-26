@@ -1,0 +1,10 @@
+# Adapta Arduino Theme
+
+
+![Result](Capture.png?raw=true "Result")
+
+# INSTALLATION
+
+* Windows: go to ```C:\Program Files (x86)\Arduino\lib``` and replace ```theme```
+* Mac: go to```~/Applications/Arduino.app/Contents/Java/lib``` and replace ```theme```
+* Linux: go to ```/opt/arduino/lib``` and replace ```theme```
